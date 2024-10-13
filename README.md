@@ -112,3 +112,7 @@ Data-Driven Insights: By switching from manual data methods to real-time analyti
 Visualisations: With clear and interactive visuals, the dashboard simplifies complex data, making it easier for the team to monitor key performance indicators (KPIs) and track overall business health.
 
 # Overall View of the Dashboard :
+
+https://github.com/user-attachments/assets/2504ec0c-dffe-4c39-8719-0f3a878add21
+
+
